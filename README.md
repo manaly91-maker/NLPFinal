@@ -1,4 +1,4 @@
-# NLPFinal
+##NLPFinal
 Sentiment Analysis of Amazon Electronics Reviews (Electronics_5 dataset) using NLP and classical machine learning models.
 
 Sentiment Analysis of Electronics Reviews on Amazon (Electronics_5)
@@ -35,11 +35,11 @@ Electronics_5.json
 - Scikit-learn  
 - Matplotlib  
 
-##How to Run  
+How to Run  
 1. Open IT9002_NLP_Project.ipynb in Google Colab or Jupyter Notebook.  
 2. Place Electronics_5.json in the same directory.  
 3. Run the notebook cells sequentially.
 
 Course Information  
-Course: IT9002 – Natural Language Processing  
+Course: IT9002 - Natural Language Processing  
 Program: MSc Artificial Intelligence  
